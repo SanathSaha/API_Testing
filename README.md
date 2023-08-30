@@ -1,7 +1,8 @@
 # API-Testing-Project
 ## Restful-booker API Testing
-POST Method: Create Access Token
-POST Method: Create new Booking
-GET Method: Get Booking Data
-PUT Method: Update Booking Data
-Delete Method: Delete Booking
+
+1. POST Method: Create Access Token
+2. POST Method: Create new Booking 
+3. GET Method: Get Booking Data
+4. PUT Method: Update Booking Data
+5. Delete Method: Delete Booking
